@@ -1,18 +1,18 @@
 # wilsonpaulgeorgegithub.io
 
 
-My name is Paul Wilson studying bachelor of technology in electronics and communication steam
-at VASIREDDY VENKATADRI INSTITUTE OF TECHNOLOGY at nambur ,Guntur.
+My name is Paul Wilson studying bachelor of technology in electronics and communication stream
+at VASIREDDY **VENKATADRI INSTITUTE OF TECHNOLOGY** at nambur ,Guntur.
 
-I have attended a workshop on "Basics of Fundamentals of Deep Learning" conducted by Nvidia certified 
-tutor Mr.PARDHASARADHI sir 
+> I have attended a workshop on "Basics of Fundamentals of Deep Learning" conducted by Nvidia certified 
+tutor **Mr.M.PARDHASARADHI sir**
 
 Got to learn more in that workshop about deep learning 
 
-A two workshop started with the history and classification of deep learning
-by Dr.Y.MALLIKARJUNA REDDY sir
+> A two workshop started with the history and classification of deep learning
+by **Dr.Y.MALLIKARJUNA REDDY sir**
 
-Then learned about neural networks .A great lecture to hear by Dr.GIRI BABU sir 
+Then learned about neural networks .A great lecture to hear by **Dr.K.GIRI BABU** sir 
 
 After having a break,another lecture filled with fun and knowledge by Mr.PARDHA SARADHI sir on the topic 
 LEARNING and TRAINING 
@@ -22,17 +22,17 @@ At the day ,each of us given five tasks tone completed to get a certificate from
 Finally ,I got it. Thanks for the lovely two day workshop which is a huge memory for me in  
 my second year of graduation 
 
-https://courses.nvidia.com/certificates/5843320f24b84c3dbb9984056e16003e
+And earned my first [digital certificate](https://courses.nvidia.com/certificates/5843320f24b84c3dbb9984056e16003e)
 
 
 
-Attended AI bootcamp on 11th of november which is a continuation to the workshop 
+Attended ***AI bootcamp*** on 11th of november which is a continuation to the workshop 
 Here in this seven day bootcamp Ideas able to learn more about the  deep learning and I have run some programs 
 on classification,resnet,etc on Jupyter notebook
 
 In this bootcamp i had met with many fellomates who turned as friends at the end of the bootcamp
 
-Here we have learned many things about installation of keras and tensorflow from anaconda environment
+Here we have learned many things about installation of [**Keras**](https://keras.io/about/) [**Tensorflow **](https://www.tensorflow.org/) anaconda environment
 
 After installation we had run programs on image classification and Boston house pricing  and we have got to know 
 about the framework of tensorflow developed by Microsoft 
