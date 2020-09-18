@@ -32,7 +32,8 @@ on classification,resnet,etc on Jupyter notebook
 
 In this bootcamp i had met with many fellomates who turned as friends at the end of the bootcamp
 
-Here we have learned many things about installation of [**Keras**](https://keras.io/about/) [**Tensorflow **](https://www.tensorflow.org/) anaconda environment
+Here we have learned many things about installation of [**Keras**](https://keras.io/about/) [Tensorflow ](https://www.tensorflow.org/) anaconda environment
+
 
 After installation we had run programs on image classification and Boston house pricing  and we have got to know 
 about the framework of tensorflow developed by Microsoft 
